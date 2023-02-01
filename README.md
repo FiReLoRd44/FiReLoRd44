@@ -1,11 +1,14 @@
-### Hi there 👋
+###Welcome to my GitHub Profile
+I am a computer science engineering student with a passion for cybersecurity, computer networking, and the Internet of Things (IoT). My current focus is on Embedded Systems and I love to work on computer hardware and electronics.
 
-<!--
-**FiReLoRd44/FiReLoRd44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+Here on GitHub, you'll find a variety of projects that showcase my skills and interests. From cybersecurity tools to IoT devices, I'm constantly exploring new technologies and finding ways to apply them to real-world problems.
 
-- 🔭 I’m currently working on Embedded Systems 
-- 🌱 I’m currently learning Cybersecurity, Embedded Systems, Cloud Security, Computer Networking
-- 🤔 I’m looking for help with Embedded Systems
-- 💬 Ask me about anything related to Cybersecurity, Computer Networks, Computer Hardware
-- 📫 How to reach me: mehtasiddha@gmail.com
-- ⚡ Fun fact: If you are connected to the internet, you probably might already be hacked. 
+As I near the end of my studies, I am eager to apply my knowledge and skills to real-world problems and make a positive impact on the world. If you're interested in collaborating on a project or learning more about my work, please don't hesitate to reach out. I'd love to hear from you!
+
+<p align="center">
+  <a href="https://linkedin.com/in/siddha-mehta">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
+  </a>
+</p>
+Connect with me on LinkedIn: <a href="https://linkedin.com/in/your-linkedin-username">linkedin.com/in/siddha-mehta</a>
+
