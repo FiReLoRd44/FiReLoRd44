@@ -12,7 +12,7 @@ I have a substantial portfolio of projects related to cybersecurity and IoT. The
 
 ## 📫 Let's Connect
 - 📧 Email: [mehtasiddha@gmail.com]
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/siddha-mehta)
+- [![GitHub](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddha-mehta)
 
 I'm enthusiastic about collaborating and sharing knowledge within the cybersecurity and IoT communities. Don't hesitate to get in touch – let's connect and explore the endless possibilities of these exciting domains together!
 
