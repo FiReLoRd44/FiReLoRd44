@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Siddha
 
-I'm a passionate computer science graduate with a strong focus on cloud security, cybersecurity, computer networking, and IoT (Internet of Things). Currently, I work as a Cloud Security Engineer, where I continuously explore innovative solutions to safeguard cloud environments and data.
+I'm a passionate computer science graduate with a strong focus on cloud security, cybersecurity, computer networking, and IoT (Internet of Things). I worked as a Security Engineer, where I continuously explored innovative solutions to safeguard cloud as well as on-prem environments and data. Currently, I am pursuing my Masters in Cybersecurity Engineering at University of Washington. 
 
 ## 💼 Professional Background
 - 🎓 Completed my undergraduate degree in Computer Science.
