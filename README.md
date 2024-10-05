@@ -4,7 +4,7 @@ I'm a passionate computer science graduate with a strong focus on cloud security
 
 ## 💼 Professional Background
 - 🎓 Completed my undergraduate degree in Computer Science.
-- 👷‍♂️ Working as a Cloud Security Engineer.
+- 👷‍♂️ Worked as a Security Engineer. 
 - 🛡️ Deeply interested in cybersecurity, network security, and IoT technologies.
 
 ## 🚀 My Projects
