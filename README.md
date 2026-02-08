@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Siddha
 
-I'm a passionate computer science graduate with a strong focus on cloud security, cybersecurity, computer networking, and IoT (Internet of Things). I worked as a Security Engineer, where I continuously explored innovative solutions to safeguard cloud as well as on-prem environments and data. Currently, I am pursuing my Masters in Cybersecurity Engineering at University of Washington. 
+I'm a passionate computer science graduate with a strong focus on application security and automation. I interned as a Security Engineer at Amazon where worked on building scalable security automation tools and performed appsec assessments. Currently, I am pursuing my Masters in Cybersecurity Engineering at University of Washington. I am also the Vice President of the GrayHats Club at UWB.
 
 ## 💼 Professional Background
 - 🎓 Completed my undergraduate degree in Computer Science.
-- 👷‍♂️ Worked as a Security Engineer. 
-- 🛡️ Deeply interested in cybersecurity, network security, and IoT technologies.
+- 👷‍♂️ Interned at Amazon as a Security Engineer 
+- 🛡️ Deeply interested in appsec and automation as well hardware security.
 
 ## 🚀 My Projects
 I have a substantial portfolio of projects related to cybersecurity and IoT. These projects reflect my dedication to exploring and advancing in these exciting fields. If you're curious and would like to learn more about the work I've done, please feel free to reach out to me.
